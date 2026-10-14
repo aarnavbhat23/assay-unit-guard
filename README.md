@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.assay_units`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/assay_units.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Assay Unit Guard
 
 Normalize exact and censored concentration records without silently turning assay limits into measurements.
